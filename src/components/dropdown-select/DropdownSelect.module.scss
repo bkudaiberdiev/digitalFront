@@ -1,0 +1,9 @@
+.dropdown {
+  margin: 0;
+  width: 200px;
+  &_label {
+    text-align: left;
+    display: block;
+    margin-bottom: 8px;
+  }
+}
